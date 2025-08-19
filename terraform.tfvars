@@ -16,4 +16,4 @@ spokes = {
   }
 }
 
-subscription_id = "366d84a8-7475-45d4-97d3-f44d0f00d92a"
+subscription_id = ""
