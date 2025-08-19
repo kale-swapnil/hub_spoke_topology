@@ -18,9 +18,6 @@ This repository provisions a **secure, scalable Hub-Spoke network topology** in 
 
 ---
 
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Prerequisites
